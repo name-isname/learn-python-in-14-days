@@ -1,4 +1,4 @@
-# Day2 初学python语法
+# Day02 初学python语法
 在zed的编辑器下写python代码，写一个猜数字的程序
 
 猜数字

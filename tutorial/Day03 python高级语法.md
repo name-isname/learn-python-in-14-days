@@ -1,4 +1,4 @@
-# Day3 python高级语法
+# Day03 python高级语法
 学习python高级变量类型，list，string，dict，set，过一遍就足够，知道是什么回事就行。
 学习python的高级特性，函数，类与对象和方法，类型标注，理解为什么要出现函数，类（本质都是为了抽象）。理解Don't Repeat Yourself原则。
 
