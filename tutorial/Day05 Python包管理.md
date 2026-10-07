@@ -1,3 +1,4 @@
 # Day05 Python包管理
+添加首个外部包
 学习python的包，基本的json格式，toml格式
 将之前的结果改成存到json里
