@@ -26,12 +26,14 @@ macOS方案：安装ghostty终端模拟器，安装oh my zsh优化，主题`omz 
 使用uv安装python3.13
 
 使用uv下面的命令初始化一个项目，再运行这个项目，理解这里面的每行命令是什么意思
-```shell
+```zsh
 uv init --no-package 项目名
 uv run main.py
 ```
 在zed里打开这个项目文件夹，无需做代码编辑，观察初始化项目的文件夹里有什么内容，询问AI，理解文件作用。
 zed可以使用下面的命令用zed打开终端当前所在文件夹。
-```shell
+```zsh
 zed .
 ```
+
+---
